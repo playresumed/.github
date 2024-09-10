@@ -1,1 +1,1 @@
-# .github nih bos senggol dong..
+# .github
